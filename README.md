@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm an JavaScript developer who makes apps and websites. I work at Le Monde as a JavaScript Developper. I am the creator of HoloPlay.
+🔭 I'm an JavaScript developer who makes apps and websites. I'm currently working at Le Monde as a JavaScript Developper. I am the creator of HoloPlay.
