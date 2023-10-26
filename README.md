@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔭 I'm Stéphane, a passionate self-taught JavaScript developer who makes apps and websites. I'm currently working at Le Monde as a JavaScript Developper.
+🔭 I'm Stéphane, a passionate self-taught JavaScript developer who makes apps and websites. I'm currently working at Oodrive as a React-Native Developper.
 
 **Things i work with**
 
